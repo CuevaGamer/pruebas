@@ -1,20 +1,26 @@
-## Descripción QA
+### 💡 (Borrar esta linea) Para regresar al menu, borrar el parametro ``` &parameter=... ``` de la URL
+## Jira
 
-<-- Agrega una descripción del user story !-->
+<-- Agrega el link de la tarea en Jira-->
 
-## Resumen de los cambios
+## Descripción 
 
-<-- Agrega una breve descripción de los cambios !-->
+<-- Agrega una descripción del user story -->
 
 ## Checklist
 
-- [x] Compilación correcta
-- [x] Documentación actualizada 
-- [x] Se agregaron unit test
-- [x] Unit test estan correctos
+- [ ] Nueva Característica
+- [ ] Corrección de Bug
+- [ ] Mejora/Refactorización
+- [ ] Documentación
+- [ ] Otro (especificar):
 
 ## Notas
 
 <-- Agrega notas adicionales !-->
 
-## Screensshots
+## Evidencias
+
+
+
+## Despliegue
