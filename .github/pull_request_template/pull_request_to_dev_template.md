@@ -1,4 +1,4 @@
-## Descripción PARA EL PM
+## Descripción DEV
 
 <-- Agrega una descripción del user story !-->
 
@@ -8,13 +8,14 @@
 
 ## Checklist
 
-- [x] Compilación correcta
+- [x] Funcionalidad completa
 - [x] Documentación actualizada 
 - [x] Se agregaron unit test
-- [x] Unit test estan correctos
+- [x] Todos los requisitos cumplidos
 
 ## Notas
 
 <-- Agrega notas adicionales !-->
 
 ## Screensshots
+

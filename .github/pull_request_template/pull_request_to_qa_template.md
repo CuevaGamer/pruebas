@@ -1,4 +1,4 @@
-## Descripción PARA EL QA
+## Descripción QA
 
 <-- Agrega una descripción del user story !-->
 

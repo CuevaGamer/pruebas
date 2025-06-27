@@ -1,4 +1,4 @@
-## Descripción PARA EL DEV
+## Descripción PROD
 
 <-- Agrega una descripción del user story !-->
 
